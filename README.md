@@ -1,4 +1,4 @@
-# Conseptual-Model
+# Conseptual Model -- Leskita.com
 # :family_man_boy_boy: Member of Group 4 : 
 - Indra Suparlan    ( 1313620001 )
 - Riszky Hermawan   ( 1313620031 )
@@ -7,6 +7,7 @@
 
 
 # :sunny: Consept-point :
+
 Assumption :
     Banyak siswa sekolah yang membutuhkan pembelajaran diluar sekolah baik untuk meningkatkan prestasi, maupun mempersiapkan diri untuk menempuh ujian.
     Banyak mahasiwa yang membutuhkan pekerjaan sampingan.
