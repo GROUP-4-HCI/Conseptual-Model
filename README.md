@@ -1,5 +1,5 @@
 # Conseptual Model -- Leskita.com
-# :family_man_boy_boy: Member of Group 4 : 
+# :family_man_boy_boy: Member of Group 5 : 
 - Indra Suparlan    ( 1313620001 )
 - Riszky Hermawan   ( 1313620031 )
 - Galang Kurniadhi  ( 1313620036 )
